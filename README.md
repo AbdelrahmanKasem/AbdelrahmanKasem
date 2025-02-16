@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abdelrahman Kasem
+- 👀 I’m interested in Computer Science and Artificial Intelligence
+- 🌱 I’m currently learning Algorithms, Data Structure, and Web Development
