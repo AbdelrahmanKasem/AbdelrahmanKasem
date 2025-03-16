@@ -1,5 +1,9 @@
 ### Hi there, I'm Abdelrahman! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498db&width=600&lines=Computer+Science+Student;Web+%26+Desktop+Developer;Aspiring+Data+Scientist;Open-Source+Contributor" alt="Typing SVG" />
+</p>
+
 I am a **Computer Science student** with experience in **Web Development** and **Desktop Applications**. Currently, I'm focusing on expanding my expertise in **Data Science** while building impactful projects and contributing to open-source communities.
 
 ### 💻 Tech Stack
@@ -15,9 +19,11 @@ I am a **Computer Science student** with experience in **Web Development** and *
 - Finding a job that aligns with my skills and future aspirations
 
 ### 🌍 Let's Connect!
-- **Portfolio**: [Coming Soon]
-- **Codeforces**: [WhileTrueThinker](https://codeforces.com/profile/Abdelrahman-Mamdouh)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [@your-github-handle](https://github.com/AbdelrahmanKasem)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://codeforces.com/profile/WhileTrueThinker"><img src="https://img.shields.io/badge/Codeforces-WhileTrueThinker-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/your-github-handle"><img src="https://img.shields.io/badge/GitHub-@your--github--handle-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 Feel free to check out my repositories and get in touch! 🚀
