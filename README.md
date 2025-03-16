@@ -33,4 +33,13 @@ I am a **Computer Science student** with experience in **Web Development** and *
   <a href="https://github.com/your-github-handle"><img src="https://img.shields.io/badge/GitHub-@your--github--handle-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+### 🔥 Fun Animations!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-handle&theme=blue-green" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" />
+</p>
+
 Feel free to check out my repositories and get in touch! 🚀
