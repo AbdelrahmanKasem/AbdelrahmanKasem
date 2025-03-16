@@ -11,6 +11,10 @@ I am a **Computer Science student** with experience in **Web Development** and *
 - Enjoy tackling **algorithmic challenges** and **optimizing solutions**.
 - Passionate about **critical thinking** and **breaking down complex problems**.
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f6b616e61636f64652e636f6d2f6b616e612e676966" alt="Problem Solving Animation" />
+</p>
+
 ### 💻 Tech Stack
 - **Web Development**: HTML, CSS, Tailwind, JavaScript
 - **Desktop Applications**: C#, .NET Framework, GunaUI
