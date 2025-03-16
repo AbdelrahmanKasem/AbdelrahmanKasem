@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdelrahman! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498db&width=600&lines=Computer+Science+Student;Web+%26+Desktop+Developer;Aspiring+Data+Scientist;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498db&width=600&lines=Computer+Science+Student;Web+%26+Desktop+Developer;Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 I am a **Computer Science student** with experience in **Web Development** and **Desktop Applications**. Currently, I'm focusing on expanding my expertise in **Data Science** while building impactful projects and contributing to open-source communities.
