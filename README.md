@@ -11,10 +11,6 @@ I am a **Computer Science student** with experience in **Web Development** and *
 - Enjoy tackling **algorithmic challenges** and **optimizing solutions**.
 - Passionate about **critical thinking** and **breaking down complex problems**.
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f6b616e61636f64652e636f6d2f6b616e612e676966" alt="Problem Solving Animation" />
-</p>
-
 ### 💻 Tech Stack
 - **Web Development**: HTML, CSS, Tailwind, JavaScript
 - **Desktop Applications**: C#, .NET Framework, GunaUI
@@ -28,18 +24,9 @@ I am a **Computer Science student** with experience in **Web Development** and *
 ### 🌍 Let's Connect!
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://codeforces.com/profile/WhileTrueThinker"><img src="https://img.shields.io/badge/Codeforces-WhileTrueThinker-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/your-github-handle"><img src="https://img.shields.io/badge/GitHub-@your--github--handle-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-### 🔥 Fun Animations!
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-handle&theme=blue-green" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" />
+  <a href="https://codeforces.com/profile/Abdelrahman-Mamdouh"><img src="https://img.shields.io/badge/Codeforces--Abdelrahman--Mamdouh-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="[#](https://www.linkedin.com/in/abdelrahman-mamdouh-cs/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/AbdelrahmanKasem"><img src="https://img.shields.io/badge/GitHub-@AbdelrahmanKasem-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 Feel free to check out my repositories and get in touch! 🚀
