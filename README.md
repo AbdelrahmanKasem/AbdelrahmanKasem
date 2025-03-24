@@ -33,7 +33,4 @@ I am a **Computer Science student** with experience in **Web Development** and *
   <a href="https://abdelrahmankasem.com/files/Abdelrahman_Kasem_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
-
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://abdelrahmankasem.com/files/Abdelrahman_Kasem_CV.pdf)
-
 Feel free to check out my repositories and get in touch! 🚀
