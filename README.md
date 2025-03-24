@@ -21,6 +21,9 @@ I am a **Computer Science student** with experience in **Web Development** and *
 - Mastering advanced **algorithmic problem-solving**
 - Contributing to open-source projects
 
+### 🛠 Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### 🌍 Let's Connect!
 <p align="center">
   <a href="https://www.abdelrahmankasem.com"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
