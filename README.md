@@ -30,8 +30,10 @@ I am a **Computer Science student** with experience in **Web Development** and *
   <a href="https://codeforces.com/profile/Abdelrahman-Mamdouh"><img src="https://img.shields.io/badge/Codeforces--Abdelrahman--Mamdouh-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://www.linkedin.com/in/abdelrahman-mamdouh-cs/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AbdelrahmanKasem"><img src="https://img.shields.io/badge/GitHub-@AbdelrahmanKasem-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://abdelrahmankasem.com/files/Abdelrahman_Kasem_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([your_resume_link_here](https://abdelrahmankasem.com/files/Abdelrahman_Kasem_CV.pdf))
+
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://abdelrahmankasem.com/files/Abdelrahman_Kasem_CV.pdf)
 
 Feel free to check out my repositories and get in touch! 🚀
