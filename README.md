@@ -22,7 +22,7 @@ I am a **Computer Science student** with experience in **Web Development** and *
 - Contributing to open-source projects
 
 ### 🛠 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,git,github,notion)](https://skillicons.dev)
 
 ### 🌍 Let's Connect!
 <p align="center">
