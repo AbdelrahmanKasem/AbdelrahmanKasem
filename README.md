@@ -21,6 +21,10 @@ I am a **Computer Science student** with experience in **Web Development** and *
 - Mastering advanced **algorithmic problem-solving**
 - Contributing to open-source projects
 
+### 📜 Certificates
+
+[![Introduction to Internet of Things](https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg)](https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg)
+
 ### 🛠 Languages & Tools
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,git,github,notion)
 
@@ -34,3 +38,4 @@ I am a **Computer Science student** with experience in **Web Development** and *
 </p>
 
 Feel free to check out my repositories and get in touch! 🚀
+https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg
