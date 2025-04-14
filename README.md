@@ -146,4 +146,3 @@ I am a **Computer Science student** with experience in **Web Development** and *
 </p>
 
 Feel free to check out my repositories and get in touch! 🚀
-https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg
