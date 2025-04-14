@@ -23,33 +23,45 @@ I am a **Computer Science student** with experience in **Web Development** and *
 
 ### 📜 Certificates
 
-<table>
+<table width="100%">
   <tr>
     <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg" width="250px" />
+      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Data_Science.jpg" width="250px" />
       <br/>
       <b>Introduction to IoT</b>
     </td>
     <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg" width="250px" />
+      <img src="https://abdelrahmankasem.com/images/certificates/Javascript.jpg" width="250px" />
       <br/>
       <b>Certificate Title 2</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg" width="250px" />
+      <img src="https://abdelrahmankasem.com/images/certificates/Data_Analysis.jpg" width="250px" />
       <br/>
       <b>Certificate Title 3</b>
     </td>
     <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg" width="250px" />
+      <img src="https://abdelrahmankasem.com/images/certificates/Arduino.jpg" width="250px" />
       <br/>
       <b>Certificate Title 4</b>
     </td>
   </tr>
-  <!-- Add more rows as needed -->
+<tr>
+    <td align="center">
+      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Database.jpg" width="250px" />
+      <br/>
+      <b>Certificate Title 3</b>
+    </td>
+    <td align="center">
+      <img src="https://abdelrahmankasem.com/images/certificates/Network_Technical_Career_Path.jpg" width="250px" />
+      <br/>
+      <b>Certificate Title 4</b>
+    </td>
+  </tr>
 </table>
+
 
 ### 🛠 Languages & Tools
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,git,github,notion)
