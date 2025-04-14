@@ -29,36 +29,36 @@ I am a **Computer Science student** with experience in **Web Development** and *
     <td align="center">
       <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Data_Science.jpg" width="250px" />
       <br/>
-      <b>Introduction to IoT</b>
+      <b>Introduction to Data Science</b>
     </td>
     <td align="center">
       <img src="https://abdelrahmankasem.com/images/certificates/Javascript.jpg" width="250px" />
       <br/>
-      <b>Certificate Title 2</b>
+      <b>Javascript</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://abdelrahmankasem.com/images/certificates/Data_Analysis.jpg" width="250px" />
       <br/>
-      <b>Certificate Title 3</b>
+      <b>Data Analysis</b>
     </td>
     <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Arduino.jpg" width="250px" />
+      <img src="https://abdelrahmankasem.com/images/certificates/Network_Technical_Career_Path.jpg" width="250px" />
       <br/>
-      <b>Certificate Title 4</b>
+      <b>Network Technical Career Path</b>
     </td>
   </tr>
 <tr>
     <td align="center">
       <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Database.jpg" width="250px" />
       <br/>
-      <b>Certificate Title 3</b>
+      <b>Introduction to Database</b>
     </td>
-    <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Network_Technical_Career_Path.jpg" width="250px" />
+  <td align="center">
+      <img src="https://abdelrahmankasem.com/images/certificates/Arduino.jpg" width="250px" />
       <br/>
-      <b>Certificate Title 4</b>
+      <b>Arduino</b>
     </td>
   </tr>
 </table>
