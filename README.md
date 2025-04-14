@@ -24,6 +24,7 @@ I am a **Computer Science student** with experience in **Web Development** and *
 ### 📜 Certificates
 
 [![Introduction to Internet of Things](https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg)](https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg)
+- 🛰️ **Introduction to Internet of Things** – Issued by [Provider Name], covering the fundamentals of IoT systems and connectivity.
 
 ### 🛠 Languages & Tools
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,git,github,notion)
