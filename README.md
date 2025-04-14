@@ -64,6 +64,29 @@ I am a **Computer Science student** with experience in **Web Development** and *
 </table>
 </center>
 
+### 🏅 Credly Badges
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/ca776254-3386-43eb-88ed-d7256a7eca9c/public_url">
+        <img src="https://images.credly.com/size/340x340/images/abf8e0ec-d300-4a5b-89cd-f684032d4f6e/image.png" width="150px"/>
+        <br/>
+        <b>Badge Title 1</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/de74e382-e4ae-451b-a027-bea7aa263542/public_url">
+        <img src="https://images.credly.com/size/340x340/images/YOUR_IMAGE_HERE.png" width="150px"/>
+        <br/>
+        <b>Badge Title 2</b>
+      </a>
+    </td>
+  </tr>
+  <!-- Add more rows as needed -->
+</table>
+
+
 ### 🛠 Languages & Tools
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,git,github,notion)
 
