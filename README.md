@@ -23,7 +23,8 @@ I am a **Computer Science student** with experience in **Web Development** and *
 
 ### 📜 Certificates
 
-<table width="100%">
+<center>
+  <table width="100%">
   <tr>
     <td align="center">
       <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Data_Science.jpg" width="250px" />
@@ -61,7 +62,7 @@ I am a **Computer Science student** with experience in **Web Development** and *
     </td>
   </tr>
 </table>
-
+</center>
 
 ### 🛠 Languages & Tools
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,git,github,notion)
