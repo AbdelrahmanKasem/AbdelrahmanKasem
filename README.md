@@ -31,19 +31,19 @@ I am a **Computer Science student** with experience in **Web Development** and *
       <b>Introduction to IoT</b>
     </td>
     <td align="center">
-      <img src="https://yourdomain.com/images/certificates/certificate2.jpg" width="250px" />
+      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg" width="250px" />
       <br/>
       <b>Certificate Title 2</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://yourdomain.com/images/certificates/certificate3.jpg" width="250px" />
+      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg" width="250px" />
       <br/>
       <b>Certificate Title 3</b>
     </td>
     <td align="center">
-      <img src="https://yourdomain.com/images/certificates/certificate4.jpg" width="250px" />
+      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Internet_of_Things.jpg" width="250px" />
       <br/>
       <b>Certificate Title 4</b>
     </td>
