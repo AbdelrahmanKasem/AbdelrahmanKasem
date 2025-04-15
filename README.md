@@ -36,20 +36,18 @@ I am a **Computer Science student** with experience in **Web Development** and *
       <br/>
       <b>Javascript</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://abdelrahmankasem.com/images/certificates/Data_Analysis.jpg" width="250px" />
       <br/>
       <b>Data Analysis</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://abdelrahmankasem.com/images/certificates/Network_Technical_Career_Path.jpg" width="250px" />
       <br/>
       <b>Network Technical Career Path</b>
     </td>
-  </tr>
-<tr>
     <td align="center">
       <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Database.jpg" width="250px" />
       <br/>
@@ -82,8 +80,6 @@ I am a **Computer Science student** with experience in **Web Development** and *
         <b>Intro to Data Science</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/8cfb5900-163a-4e8c-9e1c-d38e455a69c7/public_url">
         <img src="https://abdelrahmankasem.com/images/badges/introduction-to-iot.png" width="150px" />
@@ -91,6 +87,8 @@ I am a **Computer Science student** with experience in **Web Development** and *
         <b>Intro to IoT</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/98816b39-41cf-4504-aab9-0e45658c0041/public_url">
         <img src="https://abdelrahmankasem.com/images/badges/network-technician-career-path.png" width="150px" />
@@ -98,8 +96,6 @@ I am a **Computer Science student** with experience in **Web Development** and *
         <b>Network Technician Career Path</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/dba126fa-a7b4-4397-b3b3-1ce84d73986f/public_url">
         <img src="https://abdelrahmankasem.com/images/badges/junior-cybersecurity-analyst-career-path.1.png" width="150px" />
