@@ -21,47 +21,6 @@ I am a **Computer Science student** with experience in **Web Development** and *
 - Mastering advanced **algorithmic problem-solving**
 - Contributing to open-source projects
 
-### 📜 Certificates
-
-<center>
-  <table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Data_Science.jpg" width="250px" />
-      <br/>
-      <b>Introduction to Data Science</b>
-    </td>
-    <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Javascript.jpg" width="250px" />
-      <br/>
-      <b>Javascript</b>
-    </td>
-    <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Data_Analysis.jpg" width="250px" />
-      <br/>
-      <b>Data Analysis</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Network_Technical_Career_Path.jpg" width="250px" />
-      <br/>
-      <b>Network Technical Career Path</b>
-    </td>
-    <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Introduction_to_Database.jpg" width="250px" />
-      <br/>
-      <b>Introduction to Database</b>
-    </td>
-  <td align="center">
-      <img src="https://abdelrahmankasem.com/images/certificates/Arduino.jpg" width="250px" />
-      <br/>
-      <b>Arduino</b>
-    </td>
-  </tr>
-</table>
-</center>
-
 ### 🏅 Credly Badges
 
 <table width="100%">
