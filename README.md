@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdelrahman! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498db&width=600&lines=Computer+Science+Student;Problem+Solver+%26+Critical+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498db&width=600&lines=Computer+Science+Student;Software+Developer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 I am a **Computer Science student** with experience in Web Development. I have a deep passion for problem-solving and critical thinking, which I apply in competitive programming and software development. Currently, I'm expanding my expertise in Algorithms and Data Structures while building impactful projects and contributing to open-source communities.
