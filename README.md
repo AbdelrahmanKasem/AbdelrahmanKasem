@@ -7,7 +7,7 @@
 I am a **Computer Science student** with experience in Web Development. I have a deep passion for problem-solving and critical thinking, which I apply in competitive programming and software development. Currently, I'm expanding my expertise in Algorithms and Data Structures while building impactful projects and contributing to open-source communities.
 
 ### 🛠 Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,git,github,notion)
+![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,git,github,notion)
 
 ### 🌍 Let's Connect!
 <p align="center">
