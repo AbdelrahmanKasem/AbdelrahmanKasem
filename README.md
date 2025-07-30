@@ -3,5 +3,5 @@ I'm a Computer Science student with a strong interest in Competitive Programming
 ### Contact Information
 - Email: contact@abdelrahmankasem.com
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/abdelrahman-mamdouh-cs)
-- Portfolio: [yourdomain.com](https://abdelrahmankasem.com)
+- Portfolio: [abdelrahmankasem.com](https://abdelrahmankasem.com)
 - Resume: [My CV](https://abdelrahmankasem.com/files/Abdelrahman_Kasem_CV.pdf)
