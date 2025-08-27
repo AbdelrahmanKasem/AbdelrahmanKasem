@@ -1,4 +1,4 @@
-I'm a Computer Science student with a strong interest in Competitive Programming, and Web Development. I build clean, practical, and well-documented web applications using the MERN Stack.
+I'm a Computer Sciences student with a strong interest in Mathematics, Competitive Programming, Algorithms and Data Structures.
 
 ### Contact Information
 - Email: contact@abdelrahmankasem.com
